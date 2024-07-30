@@ -43,7 +43,6 @@ const App = () => {
             Stop Listening
           </button>
         </div>
-        <div className="clear-btn">Clear Text</div>
       </div>
     </>
   );
