@@ -1,2 +1,2 @@
 # VISIT SITE
-[SONIC - HUB](https://sonic-hub.vercel.app/)
+[SONIC - HUB](https://speech-to-text-convertor-fawn.vercel.app/)
